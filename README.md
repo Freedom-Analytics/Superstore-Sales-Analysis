@@ -12,7 +12,7 @@ This repository contains a **Sales Analysis** project using **SQL, Excel, and Po
 
 ## Dataset 
 
-!You can access the dataset used in this project [here](https://onedrive.live.com/personal/07fb2997ad559975/_layouts/15/Doc.aspx?resid=7FB2997AD559975!sec88ca1df35c43cf96db544de129e39a&cid=7fb2997ad559975&migratedtospo=true&app=Excel&CT=1742377797320&OR=ItemsView
+!You can access the dataset used in this project [here](https://onedrive.live.com/personal/07fb2997ad559975/_layouts/15/Doc.aspx?resid=7FB2997AD559975!sec88ca1df35c43cf96db544de129e39a&cid=7fb2997ad559975&migratedtospo=true&app=Excel&CT=1742377797320&OR=ItemsView)
 
 ## 🔍 Key Insights:
 - **Total Sales:** $2.3M+
